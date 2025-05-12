@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(3, 3, 255);
+    color: rgb(255, 255, 255);
+}
+input[type="submit"] {
+  width: 550px;
+  height: 30px;
+  font-size: 18px;
+  padding: 5px 20px; /* Adicione padding para espacamento */
+  font-weight: bold;
+  color: rgb(230, 16, 30);
+}
+input[type="text"] {
+  width: 500px;
+  height: 15px;
+  font-size: 18px;
+  padding: 5px 20px; /* Adicione padding para espacamento */
+  font-weight: bold;
+}
+input[type="password"] {
+  width: 500px;
+  height: 15px;
+  font-size: 18px;
+  padding: 5px 20px; /* Adicione padding para espacamento */
+  font-weight: bold;
+}
